@@ -1,0 +1,318 @@
+%0 Journal Article
+%9 Editorial
+%A Hopkins, W.G.
+%T Sportscience sets the pace for publishing sport research
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/wghedit.html (721 words)
+%D 1999
+%O Department of Physiology and School of Physical Education, University of 
+Otago, Dunedin 9001, New Zealand. Email: will.hopkins=AT=otago.ac.nz
+%X Sportscience, a new quarterly journal, offers many innovative features: new 
+structures for articles, comprehensible data and statistics, sections devoted to 
+popular content through formal research papers, and downloadable article 
+templates, reprints, and bibliographic files.
+%K journal, peer-review, sport science, Web
+
+%0 Journal Article
+%9 News
+%A Sands, W.A.
+%A McNeil, J.R.
+%T Judging gymnastics with biomechanics
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/was.html (865 words)
+%D 1999
+%O Department of Exercise & Sport Science, University of Utah, Salt Lake City, 
+Utah 84112.  Email: wmasands=AT=concentric.net
+%X Human judges often have difficulty in determining the subtle differences in 
+trajectories and speed between competitors in gymnastics. We have devised an 
+objective scoring system for the compulsory vault by using video digitizing, 
+infrared timers, and a computer algorithm. We combined the objective score with 
+a human judge's score for form errors. The objective score successfully 
+increased the differentiation between performances in a trial of 25 gymnasts at 
+a competition.
+%K competitive performance, judge, score, skill, vault
+
+%0 Journal Article
+%9 News
+%A Hopkins, W.G.
+%A Hawley, J.A.
+%A Burke, L.M.
+%T Researching worthwhile performance enhancements
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/wghnews.html (1101 words)
+%D 1999
+%O Department of Physiology, University of Otago, Dunedin 9001, New Zealand. 
+Email: will.hopkins=AT=otago.ac.nz
+%O Department of Human Biology & Movement Science, RMIT University, Bundoora 
+3083, Australia
+%O Department of Sports Nutrition, Australian Institute of Sport, Belconnen 
+2616, Australia
+%X For an athlete at the top of the field, a performance enhancement makes a 
+difference to the chance of winning when it is about half the athlete's typical 
+between-event variation in performance.  Measuring enhancements of this 
+magnitude with adequate precision requires much bigger sample sizes than 
+researchers normally use.  To avoid confusion over interpretation of their 
+findings, researchers should therefore publish and explain the precision of 
+their estimates of performance enhancement.
+%K competitions, elite athletes, exercise tests, research design and analysis
+
+%0 Journal Article
+%9 News
+%A Hatfield, F.C.
+%T A new weights machine with dynamically adjustable resistance
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/fch.html (762 words)
+%D 1999
+%O International Sports Sciences Association, Santa Barbara, California 93101. 
+Email: drsquat=AT=issaonline.com
+%X A new strength-training machine allows the user to instantly change 
+resistance at any point in the exercise movement. The machine has the potential 
+to improve strength by optimizing the time each targeted muscle spends under 
+maximum stress. Whether it is more effective than other machines or free weights 
+remains to be seen.
+%K gym equipment, strength training
+
+%0 Journal Article
+%9 News
+%A Nicholson, R.M.
+%T The power clean vs the power pull for strength training
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/rmn.html (768 words)
+%D 1999
+%O School of Physical Education, University of Otago, Dunedin 9001, New Zealand. 
+Email: rnicholson=AT=pooka.otago.ac.nz
+%X In a recent discussion on the Sportscience Forum contributors agreed that 
+power cleans and power pulls are effective ways to develop power.  They also 
+agreed that the stages involved in each lift need to be taught progressively, 
+through a full range of motion; and with due regard to the training experience 
+of the athlete.  Some trainers preferred the power pull or the other components 
+of the power clean (hang clean and dead lift) on the grounds of sport 
+specificity or ease of teaching.
+%K dead lift, hang clean, Olympic weightlifting, power shrug, specificity
+
+%0 Journal Article
+%9 News
+%A Daley, K.
+%T Moving Together: Newsletter 23
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/mt23.html
+%D 1999
+%O Department of Exercise and Sport Sciences, Maharishi 
+University of Management, Fairfield, Iowa, USA 52557.  
+Email: kdaley=AT=mum.edu
+%X Topics in this newsletter:  Technology and teaching 
+conferences, lecture notes, lesson plans, medical emergency 
+encyclopedia, health-fitness...
+%K Internet, kinesiology, news, physical education
+
+%0 Journal Article
+%9 Perspective
+%A DeMont, M.E.
+%T Learn from Nature's competitive swimmers
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/med.html (1559 words)
+%D 1999
+%O Biology Department, St Francis Xavier University, Antigonish, 
+Nova Scotia, Canada  B2G 2W5.  Email: edemont=AT=juliet.stfx.ca
+%X Two examples demonstrate how research on aquatic animals can 
+benefit research on human swimmers. In the first example, work 
+by comparative biomechanists studying animals that move through 
+the air-water interface has shown that for competitive swimmers 
+the optimal depth during the glide phase is the depth that 
+minimizes surface waves. The second example contributes to the 
+ongoing argument on the nature of thrust generation in freestyle 
+swimming. The dominant view is that lift generates more thrust 
+than drag. These forces arise from steady-state fluid dynamics, 
+but the movement of the thrust-generating surfaces creates 
+unsteady fluid motion. Recent work on aquatic animal locomotion 
+has shown that unsteady mechanisms probably play an important 
+role in generating thrust, so the thrust-generating mechanisms 
+used by competitive swimmers should be reevaluated.
+%K biomechanics, drag, fluid dynamics, force, lift, swim, thrust
+
+%0 Journal Article
+%9 Perspective
+%A Katch, F.I.
+%T History Makers: Wilbur Olin Atwater (1844-1907)
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/news/history/atwater/atwater.html
+%D 1999
+%O Department of Exercise Science, University of Massachusetts, 
+Amherst, Maryland, USA 01003.  Email: fkatch=AT=excsci.umass.edu
+%K calorimetry, exercise nutrition, metabolism
+
+%0 Journal Article
+%9 Perspective
+%A Burke, L.M.
+%T Fluid and carbohydrate intake during team games: research and recommendations
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/lmb.html (1733 words)
+%D 1999
+%O Department of Sports Nutrition, Australian Institute of Sport, Belconnen 
+2616, Australia.  Email: lburke=AT=ausport.gov.au
+%X The effects of nutritional strategies on performance in team games are 
+uncertain, because changes in performance are hard to measure accurately in 
+these sports.  A small number of researchers have used lab tests, simulated 
+games, or real games to measure the effect of hydration status and carbohydrate 
+feeding on simulated game performance.  The lack of consistency in the outcomes 
+of these studies may be due to lack of precision in the measurement of 
+performance, differences between athletes or sports in the effects of the 
+nutritional intervention, or differences in environmental conditions between 
+studies.  Until there are better research tools, those who work with team-sport 
+athletes should continue to give nutritional advice based on research with 
+endurance athletes.  However, the fluid and energy requirements in a team game 
+may differ considerably from those of an endurance event, so the advice should 
+be tempered by common sense and experience. 
+%K nutrition, research design, sports drinks, supplementation, team sports
+
+%0 Journal Article
+%9 Perspective
+%A Hopkins, W.G.
+%T Guidelines on style for scientific writing
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/wghstyle.html (4397 words)
+%D 1999
+%O Department of Physiology and School of Physical Education, 
+University of Otago, Dunedin, New Zealand 9001.  Email: will.hopkins=AT=otago.ac.nz
+%X In this article I present the elements of scientific style, 
+ranging from the specifics of punctuation and abbreviations 
+through to the flow of ideas in the document.  I also deal with 
+presentation of data, common grammatical errors, and citation of 
+publications.  The guidelines are generally consistent with the 
+style promoted by the American Psychological Association. 
+%K data presentation, grammar, punctuation, publishing, research
+
+%0 Journal Article
+%9 Perspective
+%A Hopkins, W.G.
+%T How to write a literature review
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/wghreview.html (2618 words)
+%D 1999
+%O Department of Physiology and School of Physical Education, 
+University of Otago, Dunedin, New Zealand 9001.  Email: will.hopkins=AT=otago.ac.nz
+%X BACKGROUND. In this first section of the Summary, get the 
+reader's  interest with a sentence or two explaining the need 
+for the review.   LITERATURE. List the documents you included in 
+the review.  For example:  31 original investigations, one 
+monograph, five reviews, four popular  articles, one manuscript.  
+FINDINGS. Write several sentences here to  outline the main 
+findings of the documents you reviewed.  Give data and  
+interpret magnitudes of effects.  Use plain language and no  
+abbreviations.  CONCLUSIONS. This section of the Summary should 
+need only  a sentence or two.  Try to include a conclusion of 
+practical  significance.  FURTHER RESEARCH. Indicate what you 
+think now needs to be  done.  The summary must consist of less 
+than 300 words.  Be as economical  with words as possible, but 
+do not compromise grammar. 
+%K analysis, design, publishing, research, scientific writing 
+
+%0 Journal Article
+%9 Perspective
+%A Hopkins, W.G.
+%T How to write a research paper
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/wghpaper.html (1805 words)
+%D 1999
+%O Department of Physiology and School of Physical Education, 
+University of Otago, Dunedin, New Zealand 9001.  Email: will.hopkins=AT=otago.ac.nz
+%X BACKGROUND. In one or two sentences explain why your study is  
+important.  AIM. To determine the relationship between X and Y, 
+the  effect of X on Y, and so on.  DESIGN. Cross-sectional, 
+case-control,  randomized double-blind controlled trial, and so 
+on.  Include any  relevant time frame.  SUBJECTS. State the 
+number of subjects, their  athletic caliber, and the means and 
+standard deviations of their  appropriate demographics.  
+MEASURES. List the main variables for a  descriptive study; list 
+the dependent variables for a repeated-measures  study.  
+ANALYSES. Describe the statistical procedures in this summary  
+only if they were unusual. TECHNICALITIES. Describe 
+methodological  problems or insights in this summary only if 
+they are important.   OUTCOMES. State them quantitatively, with 
+likely ranges for the true  effects.  CONCLUSIONS. Interpret the 
+outcomes qualitatively, explaining  any major limitations in 
+generalizing to real populations.  The summary  must consist of 
+less than 300 words.  Be as economical with words as  possible, 
+but do not compromise grammar. 
+%K analysis, design, publishing, research, scientific writing 
+
+%0 Journal Article
+%9 Review
+%A Kreider, R.B.
+%T Effects of protein and amino-acid supplementation on athletic performance
+%J Sportsci
+%B Sportscience
+%V 3
+%N 1
+%P sportsci.org/jour/9901/rbk.html (5579 words)
+%D 1999
+%O Exercise & Sport Nutrition Laboratory, Department of Human Movement Sciences 
+& Education, The University of Memphis, Memphis, Tennessee 38152. 
+Email: kreider.richard=AT=coe.memphis.edu
+%X BACKGROUND. Protein and amino acids are among the most common nutritional 
+supplements taken by athletes.  This review evaluates the theoretical rationale 
+and potential effects on athletic performance of protein, purported anabolic 
+amino acids, branched-chain amino acids, glutamine, creatine, and 
+hydroxymethylbutyrate (HMB). LITERATURE. Two books, 61 research articles, 10 
+published abstracts, and 19 review articles or book chapters.  FINDINGS.  
+Dietary supplementation of protein beyond that necessary to maintain nitrogen 
+balance does not provide additional benefits for athletes.  Ingesting 
+carbohydrate with protein prior to or following exercise may reduce catabolism, 
+promote glycogen resynthesis, or promote a more anabolic hormonal environment.  
+Whether employing these strategies during training enhances performance is not 
+yet clear. There is some evidence from clinical studies that certain amino acids 
+(e.g., arginine, histidine, lysine, methionine, ornithine, and phenylalanine) 
+have anabolic effects by stimulating the release of growth hormone, insulin, 
+and/or glucocorticoids, but there is little evidence that supplementation of 
+these amino acids enhances athletic performance.  Branched-chain amino acids 
+(leucine, isoleucine, and valine) and glutamine may be involved in exercise-
+induced central fatigue and immune suppression, but their ergogenic value as 
+supplements is equivocal at present.  Most studies indicate that creatine 
+supplementation may be an effective and safe way to enhance performance of 
+intermittent high-intensity exercise and to enhance adaptations to training. 
+Supplementation with hydroxymethylbutyrate appears to reduce catabolism and 
+increase gains in strength and fat-free mass in untrained individuals initiating 
+training; as yet, limited data are available to decide how it affects training 
+adaptations in athletes. CONCLUSIONS. Of the nutrients reviewed, creatine 
+appears to have the greatest ergogenic potential for athletes involved in 
+intense training.  FURTHER RESEARCH. All supplements reviewed here need more 
+evaluation for safety and effects on athletic performance. 
+%K anabolic, BCAA, branched-chain amino acids, creatine, ergogenic, glutamine, 
+HMB, hydroxymethylbutyrate, training
+
