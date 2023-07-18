@@ -1,0 +1,9 @@
+import pandas as pd
+import numpy as np
+
+exam_data  = {'Names': ['Rima', 'Diana', 'Mai', 'Suha', 'Haneen', 'Ahmad', 'Mustafa', 'Emad', 'Hussam', 'Samah'],
+        'Marks': [20, 30, 17.5, np.nan, 23, 25, 100, np.nan, 29, 29],
+        'Trials': [1, 3, 2, 3, 2, 3, 1, 1, 2, 1],
+        'eligible': ['Y', 'N', 'Y', 'N', 'N', 'Y', 'Y', 'N', 'N', 'Y']}
+ 
+df = pd.DataFrame(exam_data )
